@@ -572,5 +572,12 @@
         "time": "2024-03-11 09:03:00",
         "class": "ODA",
         "disc_index": 1257303
+    },
+    {
+        "ticker": "BIOEN",
+        "name": "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.",
+        "time": "2024-03-11 22:00:00",
+        "class": "ODA",
+        "disc_index": 1257736
     }
 ]
