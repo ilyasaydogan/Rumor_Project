@@ -1,30 +1,72 @@
 [
     {
-        "ticker": "BRKT",
-        "name": "BEREKET VARLIK KİRALAMA A.Ş.",
-        "time": "2024-03-12 12:52:00",
-        "class": "ODA",
-        "disc_index": 1257915
+        "ticker": "ISMEN",
+        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+        "time": "2024-03-12 18:55:00",
+        "class": "DG",
+        "disc_index": 1258210
     },
     {
-        "ticker": "BUCIM",
-        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
-        "time": "2024-03-12 12:32:00",
+        "ticker": "ALBRK",
+        "name": "ALBARAKA TÜRK KATILIM BANKASI A.Ş.",
+        "time": "2024-03-12 18:51:00",
+        "class": "DG",
+        "disc_index": 1258209
+    },
+    {
+        "ticker": "DOAS",
+        "name": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+        "time": "2024-03-12 18:30:00",
         "class": "ODA",
-        "disc_index": 1257911
+        "disc_index": 1258191
+    },
+    {
+        "ticker": "ENERY",
+        "name": "ENERYA ENERJİ A.Ş.",
+        "time": "2024-03-12 18:26:00",
+        "class": "ODA",
+        "disc_index": 1258184
+    },
+    {
+        "ticker": "AHGAZ",
+        "name": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+        "time": "2024-03-12 18:25:00",
+        "class": "ODA",
+        "disc_index": 1258181
+    },
+    {
+        "ticker": "CWENE",
+        "name": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+        "time": "2024-03-12 18:20:00",
+        "class": "ODA",
+        "disc_index": 1258175
+    },
+    {
+        "ticker": "AKSA",
+        "name": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+        "time": "2024-03-12 17:09:00",
+        "class": "ODA",
+        "disc_index": 1258102
+    },
+    {
+        "ticker": "AKSA",
+        "name": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+        "time": "2024-03-12 17:08:00",
+        "class": "ODA",
+        "disc_index": 1258101
+    },
+    {
+        "ticker": "GRM",
+        "name": "GARANTİ YATIRIM MENKUL KIYMETLER A.Ş.",
+        "time": "2024-03-12 16:52:00",
+        "class": "DG",
+        "disc_index": 1258073
     },
     {
         "ticker": "ISGYO",
         "name": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
-        "time": "2024-03-12 10:20:00",
+        "time": "2024-03-12 15:37:00",
         "class": "ODA",
-        "disc_index": 1257842
-    },
-    {
-        "ticker": "ISMEN",
-        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
-        "time": "2024-03-12 09:19:00",
-        "class": "ODA",
-        "disc_index": 1257804
+        "disc_index": 1257954
     }
 ]
