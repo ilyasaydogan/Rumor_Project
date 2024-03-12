@@ -1,9 +1,30 @@
 [
     {
-        "ticker": "BIOEN",
-        "name": "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.",
-        "time": "2024-03-11 22:00:00",
+        "ticker": "BRKT",
+        "name": "BEREKET VARLIK KİRALAMA A.Ş.",
+        "time": "2024-03-12 12:52:00",
         "class": "ODA",
-        "disc_index": 1257736
+        "disc_index": 1257915
+    },
+    {
+        "ticker": "BUCIM",
+        "name": "BURSA ÇİMENTO FABRİKASI A.Ş.",
+        "time": "2024-03-12 12:32:00",
+        "class": "ODA",
+        "disc_index": 1257911
+    },
+    {
+        "ticker": "ISGYO",
+        "name": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+        "time": "2024-03-12 10:20:00",
+        "class": "ODA",
+        "disc_index": 1257842
+    },
+    {
+        "ticker": "ISMEN",
+        "name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+        "time": "2024-03-12 09:19:00",
+        "class": "ODA",
+        "disc_index": 1257804
     }
 ]
