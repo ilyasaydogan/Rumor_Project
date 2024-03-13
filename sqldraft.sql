@@ -1,0 +1,1 @@
+select 1 deporef, 2 urunid, 3 grupid
