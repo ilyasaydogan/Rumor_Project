@@ -4,6 +4,8 @@ Veriler S3'te test edilecek
 
 Diğer dataseti combine edilecek
 
-deneme ekleme
+Herkes kendi branch'ini olusturacak
 
-deneme 2 ekleme
+Herkes sadece kendi branch'inde calisacak. Calismasi bitince kendi branch'i aktif iken commit-push edicek. Ardindan github'da pull request olusturarak degisiklikleri main branch'ine atma istegi olusturacak
+
+Her zaman guncel verileri uzerinde calismak icin kendi branch'imiz aktif iken pull from yapilip en guncel veriler uzerinde calisilacak
